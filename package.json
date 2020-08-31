@@ -1,8 +1,8 @@
 {
-  "name": "dat-encoding",
-  "version": "4.0.2",
+  "name": "dwebx-encoding",
+  "version": "beta",
   "license": "MIT",
-  "repository": "juliangruber/dat-encoding",
+  "repository": "distributedweb/dwebx-encoding",
   "description": "Encode and decode Dat links",
   "dependencies": {
     "safe-buffer": "^5.0.1"
