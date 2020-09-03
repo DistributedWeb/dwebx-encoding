@@ -3,7 +3,7 @@
   "version": "beta",
   "license": "MIT",
   "repository": "distributedweb/dwebx-encoding",
-  "description": "Encode and decode Dat links",
+  "description": "Encode and decode DWebX links",
   "dependencies": {
     "safe-buffer": "^5.0.1"
   },
