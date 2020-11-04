@@ -2,8 +2,8 @@
   "name": "dwebx-encoding",
   "version": "1.0.0",
   "license": "MIT",
-  "repository": "distributedweb/dwebx-encoding",
-  "description": "Encode and decode DWebX links",
+  "repository": "https://github.com/distributedweb/dwebx-encoding.git",
+  "description": "Library for the encoding/decoding of dWeb buffers.",
   "dependencies": {
     "safe-buffer": "^5.0.1"
   },
